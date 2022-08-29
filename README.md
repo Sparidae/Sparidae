@@ -1,6 +1,6 @@
 ### Sparidae
 
-24岁，是学生~~（不是~~
+24岁，是学生 ~~（不是~~
 
 ~~My code is trash and so am I.~~
 
