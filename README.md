@@ -7,3 +7,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sparidae&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--可选的主题dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
+
+<!--moe counter-->
+![](https://count.getloli.com/get/@Sparidae.github.readme?theme=rule34)
+<!--moe counter end-->
+
